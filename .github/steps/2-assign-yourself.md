@@ -2,7 +2,7 @@
 
 GitHub offers powerful search capabilities directly in the Issues interface. You can use dynamic filters to quickly find and manage what matters most.
 
-### 🧭 Navigating Filters
+### :keyboard: Task: Navigating Filters 🧭
 
 - Use dropdowns at the top of the Issues page (Labels, Milestones, Assignees, etc.) to build queries visually.
 - Use keyboard shortcuts:  
