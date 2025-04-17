@@ -28,7 +28,7 @@ Search operators help you narrow down exactly what you're looking for:
 1. Navigate to the Issues tab in your repository
 2. Click on the search bar at the top of the Issues page
 3. Type `is:open label:bug assignee:@me` and press Enter
-4. Click the "Save search" option that appears and name it "My Open Bugs"
-5. Comment "search-created" on this issue when complete
+     - You have now filtered with Advanced Searches
+4. Comment "search-created" on this issue when complete
 
 
