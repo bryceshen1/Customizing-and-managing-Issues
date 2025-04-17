@@ -15,7 +15,7 @@ GitHub's keyboard shortcuts can significantly speed up your workflow.
 
 1. Press `?` to view the keyboard shortcuts menu
 2. Use `g` + `i` to navigate to Issues
-3. Use `j` and `k` to move between issues
+3. Use `j` + `k` to move between issues
 4. Use `o` to open an issue
 5. Comment "shortcuts-learned" when complete
 
