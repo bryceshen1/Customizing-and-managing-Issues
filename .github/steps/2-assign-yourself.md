@@ -1,22 +1,34 @@
-## Step 2: Create Custom Filters and Views
+## Step 2: Use Dynamic Filters to Navigate Issues Efficiently
 
-Custom filters allow you to save frequent searches for easy access later. Let's create a set of useful filters.
+Instead of relying on saved searches, GitHub offers powerful search capabilities directly in the Issues interface. You can use dynamic filters to quickly find and manage what matters most.
 
-### 🔍 Creating Saved Searches
+### 🔍 Filtering Issues with Search Queries
 
-Saved searches appear in your issues sidebar for quick access:
+You can filter issues using GitHub’s advanced search syntax. Simply click into the search bar on the Issues page and type your query. Here are some practical examples:
 
-1. After performing a search, look for the "Save search" option
-2. Name your search something descriptive
-3. Access saved searches from the sidebar on the Issues page
+- **Recently updated issues**  
+  `is:open is:issue sort:updated-desc`
 
-### :keyboard: Task: Create Multiple Custom Filters
+- **Your assigned tasks in the current milestone**  
+  `is:open is:issue assignee:@me milestone:current`
 
-Create the following saved searches:
+- **Open issues looking for contributors**  
+  `is:open is:issue label:help-wanted`
 
-1. `is:open is:issue sort:updated-desc` - Recently updated issues
-2. `is:open is:issue assignee:@me milestone:current` - Your tasks for the current milestone
-3. `is:open is:issue label:help-wanted` - Open issues seeking help
-4. Comment "filters-created" when you've created all three saved searches
+### 🧭 Navigating Filters
+
+- Use dropdowns at the top of the Issues page (Labels, Milestones, Assignees, etc.) to build queries visually.
+- Use keyboard shortcuts:  
+  Press `/` on the Issues page to jump to the filter bar instantly.
+
+### 📁 Optional: Organize Work with GitHub Projects
+
+For a more visual and persistent workflow, consider setting up **GitHub Projects**:
+
+- Create views like _"My Tasks"_, _"Recently Updated"_, or _"Needs Help"_
+- Use built-in filters and grouping options
+- Easily manage issues across multiple repositories
+
+Comment "filters-created" when you've finished the tasks to move onto the next step!
 
 ---
