@@ -1,19 +1,6 @@
 ## Step 2: Use Dynamic Filters to Navigate Issues Efficiently
 
-Instead of relying on saved searches, GitHub offers powerful search capabilities directly in the Issues interface. You can use dynamic filters to quickly find and manage what matters most.
-
-### 🔍 Filtering Issues with Search Queries
-
-You can filter issues using GitHub’s advanced search syntax. Simply click into the search bar on the Issues page and type your query. Here are some practical examples:
-
-- **Recently updated issues**  
-  `is:open is:issue sort:updated-desc`
-
-- **Your assigned tasks in the current milestone**  
-  `is:open is:issue assignee:@me milestone:current`
-
-- **Open issues looking for contributors**  
-  `is:open is:issue label:help-wanted`
+GitHub offers powerful search capabilities directly in the Issues interface. You can use dynamic filters to quickly find and manage what matters most.
 
 ### 🧭 Navigating Filters
 
