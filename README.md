@@ -26,7 +26,7 @@ In today's fast-paced development environments, finding the right information qu
 - **Who is this for**: Developers, project managers, and team leads working with GitHub repositories.
 - **What you'll learn**: Advanced issue searching, filter creation, notification management, and subscription strategies.
 - **What you'll build**: A personalized system of saved searches and notification preferences.
-- **Prerequisites**: Basic familiarity with GitHub Issues.
+- **Prerequisites**: Basic familiarity with GitHub Issues, we recommend taking the Intro to Issues GitHub Skills course.
 - **How long**: 20-30 minutes.
 
 In this course, you'll learn how to:
