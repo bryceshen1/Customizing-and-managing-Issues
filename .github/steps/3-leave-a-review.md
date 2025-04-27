@@ -1,16 +1,16 @@
-## Step 3: Manage Issue Subscriptions
+# Step 3: Manage Issue subscriptions
 
 Staying informed about issues you care about is crucial for effective collaboration.
 
-### 👀 Subscription Levels
+### 👀 Subscription levels
 
 GitHub offers different ways to follow issues:
 
-- **Participating**: You'll be notified of any activity on issues where you've participated
+- **Participating**: You'll be notified of any activity on Issues where you've participated
 - **Watching**: You'll be notified of all activity on a repository
 - **Custom**: You can subscribe to specific issues without watching the entire repository
 
-### :keyboard: Task: Set Up Subscriptions
+### :keyboard: Task: Set up subscriptions
 
 1. Open an issue in your repository
 2. Look for the "Subscribe" button in the right sidebar
