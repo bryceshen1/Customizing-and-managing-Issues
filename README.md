@@ -41,7 +41,7 @@ In this course, you'll learn how to:
 
 ### 🚀 How to start this course
 
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=bryceshen1&template_name=Issues-Management&owner=%40me&name=Issues-Management&description=Learning+GitHub+Issue+search+and+notifications&visibility=public)
+[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=bryceshen1&template_name=Customizing-and-managing-Issues&owner=%40me&name=Customizing-and-managing-Issues&description=Learning+GitHub+Issue+search+and+notifications&visibility=public)
 
 1. Right-click **Start course** and open the link in a new tab.
 2. In the new tab, follow the prompts to create a new repository.
