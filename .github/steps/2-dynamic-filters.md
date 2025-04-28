@@ -1,4 +1,4 @@
-# Step 2: Use dynamic filters to navigate Issues efficiently
+# Step 2: Use dynamic filters to navigate Issues
 
 GitHub offers powerful search capabilities directly in the Issues interface. You can use dynamic filters to quickly find and manage what matters most.
 
