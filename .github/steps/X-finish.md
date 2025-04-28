@@ -1,4 +1,4 @@
-## Finish
+# Finish
 
 _Congratulations on completing this course on GitHub Issue Search and Notifications!_
 
