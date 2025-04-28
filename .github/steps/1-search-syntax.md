@@ -26,7 +26,7 @@ Search operators help you narrow down exactly what you're looking for:
 
 ## :keyboard: Task: Create your first advanced search
 
-1. Navigate to the Issues tab in your repository
+1. Navigate to the **Issues** tab in your repository
 2. Click on the search bar at the top of the Issues page
 3. Type `is:open label:bug assignee:@me` and press Enter
      - You have now filtered with Advanced Searches
