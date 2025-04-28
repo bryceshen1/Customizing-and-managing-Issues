@@ -22,7 +22,7 @@ Search operators help you narrow down exactly what you're looking for:
 1. Navigate to the Issues tab in your repository
 2. Enter the required fields for your issue
 3. Make sure to label the Issue as a bug and assign it to yourself
-4. Click on **create** to make a new Issue
+4. Click on **Create** to make a new Issue
 
 ## :keyboard: Task: Create your first advanced search
 
