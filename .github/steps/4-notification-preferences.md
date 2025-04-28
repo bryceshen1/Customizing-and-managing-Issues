@@ -13,7 +13,7 @@ GitHub lets you customize where and how often you receive notifications:
 ### :keyboard: Task: Customize your notification settings
 
 1. Go to your GitHub profile settings
-2. Navigate to the "Notifications" section
+2. Navigate to the **Notifications** section
 3. Review and update your notification preferences
 4. Choose your preferred notification methods for:
    - Participating Issues and Pull Requests
