@@ -2,7 +2,7 @@
 
 GitHub's keyboard shortcuts can significantly speed up your workflow.
 
-### ⌨️ Essential shortcuts
+### Essential shortcuts
 
 - Press `?` to view all available shortcuts
 - `g` and `i` to navigate to Issues
