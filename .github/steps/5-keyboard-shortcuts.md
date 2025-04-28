@@ -1,4 +1,4 @@
-## Step 5: Use Keyboard Shortcuts for Efficiency
+# Step 5: Use keyboard shortcuts
 
 GitHub's keyboard shortcuts can significantly speed up your workflow.
 
