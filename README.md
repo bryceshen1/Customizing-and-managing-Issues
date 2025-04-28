@@ -31,11 +31,11 @@ In today's fast-paced development environments, finding the right information qu
 
 In this course, you'll learn how to:
 
-1. Use GitHub's powerful search syntax to find specific issues
+1. Use GitHub's powerful search syntax to find specific Issues
 2. Create and save custom filters for frequent searches
-3. Subscribe to issues and manage notification preferences
+3. Subscribe to Issues and manage notification preferences
 4. Set up watched repositories and custom notification rules
-5. Use keyboard shortcuts to navigate issues efficiently
+5. Use keyboard shortcuts to navigate Issues efficiently
 
 ---
 
