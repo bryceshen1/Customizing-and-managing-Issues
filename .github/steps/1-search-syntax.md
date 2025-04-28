@@ -4,7 +4,7 @@ GitHub's issue search is powerful but only if you know how to use it. Let's lear
 ## 📝 Core Search Operators
 Search operators help you narrow down exactly what you're looking for:
 
-- `is:issue` - Find only issues (not pull requests)
+- `is:issue` - Find only issues
 - `is:open` or `is:closed` - Filter by status
 - `repo:username/repository` - Search within a specific repository
 - `label:bug` - Find issues with specific labels
