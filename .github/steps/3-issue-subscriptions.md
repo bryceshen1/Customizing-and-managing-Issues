@@ -4,7 +4,7 @@ Staying informed about Issues you care about is crucial for effective collaborat
 
 ### 👀 Subscription levels
 
-GitHub offers different ways to follow issues:
+GitHub offers different ways to follow Issues:
 
 - **Participating**: You'll be notified of any activity on Issues where you've participated
 - **Watching**: You'll be notified of all activity on a repository
